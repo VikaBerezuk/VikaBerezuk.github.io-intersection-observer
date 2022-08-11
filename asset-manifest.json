@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/intersection-observer/static/css/main.65d508d5.css",
+    "main.js": "/intersection-observer/static/js/main.fd750fbd.js",
+    "static/media/platform.svg": "/intersection-observer/static/media/platform.74e790dd124782b87d49245741287f3a.svg",
+    "static/media/user.svg": "/intersection-observer/static/media/user.3e9e63bfda4c47fbbfb5235c92c94b38.svg",
+    "static/media/points.svg": "/intersection-observer/static/media/points.9192a8bda6e61a520c82bf0357dcfa0d.svg",
+    "static/media/reactSvg.svg": "/intersection-observer/static/media/reactSvg.b7f91104d05f37a6396210d350e77d8a.svg",
+    "static/media/file.svg": "/intersection-observer/static/media/file.d2cc6088743ac8a0843778ccc86fd916.svg",
+    "static/media/terminal.svg": "/intersection-observer/static/media/terminal.de545308173a1fa6ad215ff911cd8bb8.svg",
+    "static/media/puzzle.svg": "/intersection-observer/static/media/puzzle.1b68fd800923b8c77b470a7545804848.svg",
+    "static/media/terminalRound.svg": "/intersection-observer/static/media/terminalRound.0aa2989eb3bf17531bf357f133f46409.svg",
+    "index.html": "/intersection-observer/index.html",
+    "static/media/node.svg": "/intersection-observer/static/media/node.2772e41710db3e7ce31bf7480d633568.svg",
+    "static/media/dropdown.svg": "/intersection-observer/static/media/dropdown.ac3dce4c44e38fa8f82fcd0770db3c35.svg",
+    "main.65d508d5.css.map": "/intersection-observer/static/css/main.65d508d5.css.map",
+    "main.fd750fbd.js.map": "/intersection-observer/static/js/main.fd750fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d508d5.css",
+    "static/js/main.fd750fbd.js"
+  ]
+}
