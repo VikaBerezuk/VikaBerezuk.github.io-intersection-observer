@@ -14,14 +14,14 @@ const Instruction = () => {
                 В процессе изучения ты повторяете за действующим разработчиком, после чего
                 <span className='font-bold'> закрепляешь знания на заданиях и проектах.</span>
             </div>
-            <div className='flex py-4 bg-gray-100 rounded-t-3xl mb-1 w-[800px] m-auto'>
+            <div className='flex py-4 bg-gray-100 rounded-t-3xl mb-1 w-auto md:w-[800px] m-auto'>
                 <div className='w-2 h-2 bg-gray-300 rounded-full ml-3 mr-1'></div>
                 <div className='w-2 h-2 bg-gray-300 rounded-full mr-1'></div>
                 <div className='w-2 h-2 bg-gray-300 rounded-full'></div>
             </div>
             <div className='relative'>
                 <img className='w-[800px] m-auto' src={platform} alt='platform'/>
-                <div className='bg-gray-100 rounded-b-3xl pb-8 w-[800px] m-auto'></div>
+                <div className='bg-gray-100 rounded-b-3xl pb-8 w-auto md:w-[800px] m-auto'></div>
                 <div className='md:flex xl:block'>
                     <TaskCommand />
                     <IndividualTask />

@@ -64,7 +64,7 @@ const StartProfession = () => {
                         <section className='w-full ml-4'>
                             <h2 className='mt-2 font-bold text-xl'>17 человек в списке</h2>
                             <input placeholder='Поиск'
-                                   className='bg-[#F2F5F9] w-[98%] mr-10 my-2 px-2 py-1 rounded-md mr-4'/>
+                                   className='bg-[#F2F5F9] w-[98%] my-2 px-2 py-1 rounded-md'/>
                             <TableUsers/>
                         </section>
                     </main>
